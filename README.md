@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anand and I'm a Student of AI, from INDIA</h2>
+<h2 align="left">Hi 👋! My name is Anand and I'm a Student of Artificial Intelligence, from INDIA</h2>
 
 ###
 
